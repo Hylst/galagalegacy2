@@ -205,7 +205,7 @@ export default function App() {
               <p><strong className="text-white">Musique &amp; sons :</strong> synthétisés en direct avec l'API Web Audio, aucun fichier audio chargé.</p>
               <p><strong className="text-white">Interactions :</strong> flèches ou Q/D pour se déplacer, espace ou Z pour tirer, P pour mettre en pause.</p>
               <p><strong className="text-white">Architecture :</strong> toute la logique de jeu vit dans une classe <code>Game</code> pilotant sa propre boucle Canvas, qui notifie React de l'état public (score, vies, niveau, combo) uniquement quand il change.</p>
-              <p><strong className="text-white">Algorithmes notables :</strong> variante enrichie du premier Galaga Legacy avec un système de combo (les éliminations rapprochées augmentent un multiplicateur avant d'expirer) et 3 power-ups : vaisseau jumeau (tir en double), tir rapide et bouclier.</p>
+              <p><strong className="text-white">Algorithmes notables :</strong> variante enrichie de L'Héritage de Galaga, version d'origine, avec un système de combo (les éliminations rapprochées augmentent un multiplicateur avant d'expirer) et 3 power-ups : vaisseau jumeau (tir en double), tir rapide et bouclier.</p>
             </div>
             <div className="border-t border-white/10 p-4 text-center">
               <button onClick={() => setShowInfo(false)} className="px-6 py-2.5 rounded-full font-bold text-white bg-gradient-to-r from-fuchsia-600 via-purple-600 to-cyan-600 hover:brightness-110 active:scale-95 transition-all">Fermer</button>
