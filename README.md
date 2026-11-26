@@ -1,10 +1,10 @@
-# Galaga Legacy 2
+# L'Héritage de Galaga
 
 **La suite enrichie de Galaga Legacy : boucliers, tir double, tir rapide.**
 
 Joue ici : [games.hylst.fr/galagalegacy2/](https://games.hylst.fr/galagalegacy2/)
 
-![Galaga Legacy 2](og-image.png)
+![L'Héritage de Galaga](og-image.png)
 
 ## Comment on joue
 
